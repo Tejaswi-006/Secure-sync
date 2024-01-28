@@ -1,9 +1,12 @@
-# SecureSync
+POLLUTION  REDUCTION  AND EFFICIENT  ENERGY  CONSUMPTION  USING SMART  GRID. 
+ 
+ SecureSync
  Team Members:
  1.Akhila Rayala
+
  2.Tejaswi Tatineni
+
  3.Deshna Ramani
- POLLUTION  REDUCTION  AND EFFICIENT  ENERGY  CONSUMPTION  USING SMART  GRID. 
  
 Our project, SecureSync, tackles the critical issue of inefficient energy consumption, wastage, and pollution caused by carbon emissions in the field of electricity usage. We address this challenge by leveraging the concept of smart grids and integrating advanced machine learning technologies. To enhance the security of smart grids, we incorporate blockchain technology.
 
@@ -40,9 +43,9 @@ ergy efficiency and lower carbon emissions by combining Smart Grids with Machine
 
 ---
 
-### Ideology
+Ideology
 
-- *Research and Smart Grids:*
+Research and Smart Grids:
   - Explored efficient electricity and energy consumption worldwide, leading to the discovery of Smart Grids.
   - Smart grids involve advanced electrical grids that incorporate ML technologies to enhance efficiency and sustainability.
 
@@ -63,9 +66,8 @@ ergy efficiency and lower carbon emissions by combining Smart Grids with Machine
 
 
 
-    RAG and LLM Integration
+    RAG  Integration
 
-  Smart Contract Internationalization:
 By using RAG we are utilizing real time data to analyze the weather conditions
   
 Tech Stack
